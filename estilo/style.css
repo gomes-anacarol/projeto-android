@@ -141,7 +141,7 @@ main p{
     text-align: justify;
     text-indent: 30px;/*espaçmento da primeira linha do paragrafo*/
     font-size: 1em;
-    line-height: 1em;
+    line-height: 1.5em;
 }
 
 main strong{
