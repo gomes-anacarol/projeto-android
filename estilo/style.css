@@ -6,7 +6,7 @@
 /*Importando fonte baixada no pc, a idroid.otf*/
 @font-face{
     font-family: 'Android';
-    src: url('/fontes/idroid.otf') format('opentype');
+    src: url('../fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
 
